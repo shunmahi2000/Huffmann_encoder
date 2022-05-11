@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"e:\\Projects\\HuffmannEncoder\\test.cpp","tests":[{"id":1652244873064,"input":"abbbbbccccdebbdsbdbbdbd","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Projects\\HuffmannEncoder\\test.cpp","group":"local","local":true}
